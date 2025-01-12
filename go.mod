@@ -1,4 +1,4 @@
-module github.com/garbagecatio/rug-ninja-sniper
+module github.com/unknown-git-user/garbage-cat
 
 go 1.22.1
 
